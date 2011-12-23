@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" output="test-classes" path="test"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/trainings-dao-with-lib"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/gxt-2.2.4/gxt-2.2.4-gwt22.jar"/>
+	<classpathentry kind="lib" path="lib/asm-3.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/cglib-2.2.2.jar"/>
+	<classpathentry kind="lib" path="lib/classes12.jar"/>
+	<classpathentry kind="lib" path="lib/commons-dbcp-1.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/commons-dbcp-1.4-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-dbcp-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/commons-pool-1.5.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/commons-pool-1.5.6-sources.jar"/>
+	<classpathentry kind="lib" path="lib/commons-pool-1.5.6.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-annotations-3.3.1.GA.jar"/>
+	<classpathentry kind="lib" path="lib/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="lib/javax.persistence-2.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/protoj-exe-jdk6-1.9.1.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-simple-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/spring-aop-2.0-m4.jar"/>
+	<classpathentry kind="lib" path="lib/spring-test-3.0.6.RELEASE.jar"/>
+	<classpathentry kind="lib" path="lib/spring-framework-3.1.0.M2/dist/org.springframework.aop-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="lib/spring-framework-3.1.0.M2/dist/org.springframework.asm-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="lib/spring-framework-3.1.0.M2/dist/org.springframework.aspects-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="lib/spring-framework-3.1.0.M2/dist/org.springframework.beans-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="lib/spring-framework-3.1.0.M2/dist/org.springframework.context-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="lib/spring-framework-3.1.0.M2/dist/org.springframework.context.support-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="lib/spring-framework-3.1.0.M2/dist/org.springframework.core-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="lib/spring-framework-3.1.0.M2/dist/org.springframework.expression-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="lib/spring-framework-3.1.0.M2/dist/org.springframework.instrument-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="lib/spring-framework-3.1.0.M2/dist/org.springframework.instrument.tomcat-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="lib/spring-framework-3.1.0.M2/dist/org.springframework.jdbc-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="lib/spring-framework-3.1.0.M2/dist/org.springframework.jms-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="lib/spring-framework-3.1.0.M2/dist/org.springframework.orm-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="lib/spring-framework-3.1.0.M2/dist/org.springframework.oxm-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="lib/spring-framework-3.1.0.M2/dist/org.springframework.test-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="lib/spring-framework-3.1.0.M2/dist/org.springframework.transaction-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="lib/spring-framework-3.1.0.M2/dist/org.springframework.web-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="lib/spring-framework-3.1.0.M2/dist/org.springframework.web.portlet-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="lib/spring-framework-3.1.0.M2/dist/org.springframework.web.servlet-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="lib/spring-framework-3.1.0.M2/dist/org.springframework.web.struts-3.1.0.M2.jar"/>
+	<classpathentry kind="lib" path="/trainings-dao-with-lib/src"/>
+	<classpathentry kind="lib" path="lib/hibernate-distribution-3.6.7.Final/lib/bytecode/javassist/javassist-3.12.0.GA.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-distribution-3.6.7.Final/lib/jpa/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-distribution-3.6.7.Final/lib/required/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-distribution-3.6.7.Final/lib/required/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-distribution-3.6.7.Final/lib/required/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-distribution-3.6.7.Final/lib/required/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-distribution-3.6.7.Final/lib/required/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-distribution-3.6.7.Final/hibernate-testing.jar"/>
+	<classpathentry kind="lib" path="lib/hibernate-distribution-3.6.7.Final/hibernate3.jar"/>
+	<classpathentry kind="lib" path="lib/org.junit_4.8.1.v4_8_1_v20100427-1100/junit.jar"/>
+	<classpathentry kind="con" path="com.google.gwt.eclipse.core.GWT_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="lib/dozer-5.3.2.jar"/>
+	<classpathentry kind="output" path="war/WEB-INF/classes"/>
+</classpath>

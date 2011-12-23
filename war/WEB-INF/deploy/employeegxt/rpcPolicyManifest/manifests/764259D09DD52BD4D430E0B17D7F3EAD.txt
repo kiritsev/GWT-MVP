@@ -1,0 +1,2 @@
+serviceClass: ru.iteco.employeegxt.client.DataBaseService
+path: 290CC84C8A4E6EDFF8FB6327A4887C0A.gwt.rpc

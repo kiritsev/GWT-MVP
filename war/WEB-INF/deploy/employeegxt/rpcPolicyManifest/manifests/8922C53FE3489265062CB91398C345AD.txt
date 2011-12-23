@@ -1,0 +1,2 @@
+serviceClass: ru.iteco.employeegxt.client.GreetingService
+path: 4939CB4CC8B09891E242F89735090D47.gwt.rpc
